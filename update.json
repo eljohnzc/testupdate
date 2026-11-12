@@ -3,5 +3,5 @@
   "versionName": "1.4.0",
   "notes": "• New dark mode\n• Faster loading\n• Bug fixes",
   "url": "https://play.google.com/store/apps/details?id=your.package",
-  "forced": true
+  "forced": false
 }
