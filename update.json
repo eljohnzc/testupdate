@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "force": true,
+  "force": false,
   "title": "Update Required",
   "message": "Please update to continue using the app.",
   "url": "https://play.google.com/store/apps/details?id=com.your.app"
